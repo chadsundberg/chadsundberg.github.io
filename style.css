@@ -17,8 +17,8 @@ body {
 }
 
 #pic {
-	max-height: 80px;
-	max-width: 80px;
+	max-height: 20%;
+	max-width: 20%;
 	float: right;
 	position: static;
 	padding: 5px;
