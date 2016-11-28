@@ -4,7 +4,10 @@ body {
 }
 
 #pic {
+	size: 500px;
 	float: right;
+	padding: 20px;
+	border: thin
 }
 
 #button {
