@@ -12,16 +12,17 @@ body {
 }
 
 .stretch {
-	width: 50%;
-	height: 50%;
+	width: 100%;
+	height: 100%;
 }
 
 #pic {
 	max-height: 10%;
 	max-width: 20%;
 	float: right;
-	margin: 20px;
-	border: 5px thin black;
+	position: static;
+	margin: 0px;
+	border: 5px solid black;
 }
 
 #button {
