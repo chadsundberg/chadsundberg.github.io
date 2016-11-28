@@ -21,7 +21,7 @@ body {
 	max-width: 20%;
 	float: right;
 	position: static;
-	padding: 5px;
+	padding-bottom: 20px;
 	border: 1px black;
 }
 
