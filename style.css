@@ -1,6 +1,7 @@
 body {
 	font: 16px Times New Roman, Serif;
 	background: url(marb097.png);
+	background-size: 100%;
 }
 
 #pic {
