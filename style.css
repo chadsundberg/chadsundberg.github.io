@@ -1,10 +1,10 @@
 body {
 	font: 16px Times New Roman, Serif;
-	background: url(cloud.png);
+	background: url(marb097.png);
 }
 
 #pic {
-	max-height: 30%;
+	max-height: 20%;
 	max-width: 20%;
 	float: right;
 	padding: 20px;
