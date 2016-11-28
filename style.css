@@ -18,11 +18,11 @@ body {
 
 #pic {
 	max-height: 10%;
-	max-width: 20%;
+	max-width: 10%;
 	float: right;
 	position: static;
-	padding: 2px;
-	border: 1px solid black;
+	padding: 5px;
+	border: 1px thin black;
 }
 
 #button {
