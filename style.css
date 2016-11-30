@@ -1,4 +1,4 @@
-body {
+body, #block-content {
 	font: 16px Calibri, Sans-Serif;	
 }
 
@@ -28,7 +28,7 @@ body {
 }
 
 #content-info {
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: bold;
 }
 
