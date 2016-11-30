@@ -22,14 +22,13 @@ body {
 	max-width: 20%;
 	float: right;
 	position: static;
-	padding-bottom: 40px;
 	-webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
 	-moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
 	box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
 }
 
 #content-info {
-	font-size: 12px;
+	font-size: 14px;
 	font-weight: bold;
 }
 
@@ -39,8 +38,8 @@ body {
 }
 
 #content-contact {
-	margin: 0 0 24px 0;
-	padding: 0 0 24px 0;
+	margin: 0 0 14px 0;
+	padding: 0 0 14px 0;
 	font-size: 32px;
 	font-weight: bold;
 	letter-spacing: -2px;
