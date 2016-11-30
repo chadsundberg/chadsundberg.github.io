@@ -23,11 +23,13 @@ body {
 	float: right;
 	position: static;
 	padding-bottom: 40px;
-	border: 1px black;
+	-webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+	-moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+	box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
 }
 
 #content-info {
-	font-size: 16px;
+	font-size: 12px;
 	font-weight: bold;
 }
 
@@ -39,7 +41,7 @@ body {
 #content-contact {
 	margin: 0 0 24px 0;
 	padding: 0 0 24px 0;
-	font-size: 42px;
+	font-size: 32px;
 	font-weight: bold;
 	letter-spacing: -2px;
 	border-bottom: 1px solid #999;
