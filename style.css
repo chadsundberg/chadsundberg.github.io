@@ -30,7 +30,7 @@ body {
 #content-info {
 	font-size: 14px;
 	font-weight: bold;
-	letter-spacing: 1px;
+	letter-spacing: -1px;
 }
 
 #container {
@@ -39,10 +39,8 @@ body {
 }
 
 #content-contact {
-	margin: 0 0 0 0;
-	padding: 0 0 0 0;
-	margin-bottom: 20px;
-	top: 80%;
+	margin: 0 0 16px 0;
+	padding: 0 0 16px 0;
 	font-size: 32px;
 	font-weight: bold;
 	letter-spacing: -1px;
@@ -67,7 +65,7 @@ body {
 	font-weight: bold;
 }
 
-h2 {
+
 	
 
 h3 {
