@@ -22,7 +22,8 @@ body, #block-content {
 	max-width: 30%;
 	float: right;
 	position: static;
-	transform: rotate(20deg);
+	transform: rotate(10deg);
+	padding: 15px
 	-webkit-box-shadow: 20px 0px 20px 0px rgba(0, 0, 50, 0.97);
 	-moz-box-shadow: 20px 0px 20px 0px rgba(0, 0, 50, 0.97);
 	box-shadow: 20px 0px 20px 0px rgba(0, 0, 50, 0.97);
