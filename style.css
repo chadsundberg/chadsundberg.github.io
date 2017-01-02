@@ -11,6 +11,8 @@ html, body, header, article, section, h1, h2, h3, h4 {
 
 body, #block-content {
 	font: 16px Calibri, Sans-Serif;
+	width: 800px;
+	margin: 10px auto 30px;
 }
 
 #background {
@@ -43,11 +45,6 @@ body, #block-content {
 #content-info {
 	font-size: 16px;
 	font-weight: bold;
-}
-
-#container {
-	width: 800px;
-	margin: 10px auto 30px;
 }
 
 header {
