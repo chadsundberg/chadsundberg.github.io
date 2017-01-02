@@ -23,7 +23,7 @@ body, #block-content {
 	float: right;
 	position: static;
 	transform: rotate(10deg);
-	padding: 15px 15px
+	padding: 15px 15px;
 	-webkit-box-shadow: 20px 0px 20px 0px rgba(0, 0, 50, 0.97);
 	-moz-box-shadow: 20px 0px 20px 0px rgba(0, 0, 50, 0.97);
 	box-shadow: 20px 0px 20px 0px rgba(0, 0, 50, 0.97);
