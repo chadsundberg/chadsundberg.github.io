@@ -1,4 +1,4 @@
-html, body, header, article, section, h1, h3, h4 {
+html, body, header, article, section, h1, h2, h3, h4 {
 	color: white;
 	padding: 0;
 	border: 0;
@@ -61,7 +61,7 @@ header {
 	border-bottom: 1px solid #999;
 }
 
-#content-summarycontent {
+h2 {
 	width: 60%;
 	margin: 0 15px 16px 0;
 	padding: 0 0 32px 0;
