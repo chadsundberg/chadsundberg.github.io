@@ -18,13 +18,13 @@ body, #block-content {
 }
 
 #pic {
-	max-height: 20%;
-	max-width: 20%;
+	max-height: 30%;
+	max-width: 30%;
 	float: right;
 	position: static;
-	-webkit-box-shadow: 10px 0px 10px 0px rgba(0, 0, 50, 0.97);
-	-moz-box-shadow: 10px 0px 10px 0px rgba(0, 0, 50, 0.97);
-	box-shadow: 10px 0px 10px 0px rgba(0, 0, 50, 0.97);
+	-webkit-box-shadow: 20px 0px 20px 0px rgba(0, 0, 50, 0.97);
+	-moz-box-shadow: 20px 0px 20px 0px rgba(0, 0, 50, 0.97);
+	box-shadow: 20px 0px 20px 0px rgba(0, 0, 50, 0.97);
 }
 
 #content-info {
