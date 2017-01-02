@@ -18,8 +18,8 @@ body, #block-content {
 }
 
 #pic {
-	max-height: 30%;
-	max-width: 30%;
+	max-height: 20%;
+	max-width: 20%;
 	float: right;
 	position: static;
 	-webkit-box-shadow: 10px 0px 10px 0px rgba(0, 0, 50, 0.97);
