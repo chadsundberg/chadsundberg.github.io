@@ -17,7 +17,7 @@ body, #block-content {
 	height: 100%;
 }
 
-.img {
+img {
 	max-height: 30%;
 	max-width: 30%;
 	float: right;
@@ -32,7 +32,7 @@ body, #block-content {
 	font-weight: bold;
 }
 
-.main {
+main {
 	width: 800px;
 	margin: 10px auto 30px;
 }
