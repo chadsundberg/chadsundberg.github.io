@@ -1,5 +1,9 @@
+html, body, h3, h4 {
+	color: white;
+}
+
 body, #block-content {
-	font: 16px Calibri, Sans-Serif;	
+	font: 16px Calibri, Sans-Serif;
 }
 
 #background {
