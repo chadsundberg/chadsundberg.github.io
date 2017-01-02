@@ -23,7 +23,7 @@ body, #block-content {
 	float: right;
 	position: static;
 	transform: rotate(10deg);
-	padding: 15px
+	padding: 15px 15px
 	-webkit-box-shadow: 20px 0px 20px 0px rgba(0, 0, 50, 0.97);
 	-moz-box-shadow: 20px 0px 20px 0px rgba(0, 0, 50, 0.97);
 	box-shadow: 20px 0px 20px 0px rgba(0, 0, 50, 0.97);
@@ -52,9 +52,8 @@ body, #block-content {
 #content-summarycontent {
 	margin: 0 0 16px 0;
 	padding: 0 0 32px 0;
-	font-weight: bold;
 	font-style: italic;
-	font-size: 20px;
+	font-size: 18px;
 }
 
 #content-professionalheader {
