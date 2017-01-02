@@ -17,7 +17,7 @@ body, #block-content {
 	height: 100%;
 }
 
-.main img {
+.pic {
 	max-height: 30%;
 	max-width: 30%;
 	float: right;
