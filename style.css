@@ -51,8 +51,9 @@ body, #block-content {
 }
 
 #content-summarycontent {
-	margin: 0 0 16px 0;
-	padding: 0 15px 32px 0;
+	width: 60%;
+	margin: 0 15px 16px 0;
+	padding: 0 0 32px 0;
 	font-style: italic;
 	font-size: 18px;
 }
